@@ -1,0 +1,68 @@
+#root {
+  min-height: 100vh;
+  width: 100%;
+  padding: 50px auto;
+  box-sizing: border-box;
+}
+
+button {
+  margin-bottom: 10px !important;
+  padding: 20px;
+}
+
+.container-home {
+  min-height: 100vh;
+  place-items: center;
+  margin: 0;
+  background-image: url(../public/background3.jpg);
+  background-size: cover;
+}
+
+.home-base {
+  gap: 20px;
+}
+
+/* .container-hero input {
+  margin-bottom: 30px;
+  border-radius: 20px 100px;
+}
+
+.container-animals {
+  background-color: transparent;
+}
+
+.card-animals {
+  margin-right: 30px;
+  margin-bottom: 20px;
+  background-color: aliceblue;
+  border-radius: 30px 0 0px 0;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+span {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+img {
+  border-radius: 30px 0 50px 0;
+}
+
+
+
+.btn {
+  border-radius: 20px 10px;
+  background-color: lightgray;
+  color: black;
+  padding: 20px;
+  border: none;
+  margin-bottom: 10px;
+}
+.btn:hover {
+  background-color: burlywood;
+  color: black;
+} */

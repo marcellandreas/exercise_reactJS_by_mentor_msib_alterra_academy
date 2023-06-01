@@ -1,0 +1,24 @@
+.title {
+  font-size: 48px;
+  background: #cfe7fa;
+  background: linear-gradient(to right, #cfe7fa 0%, #6393c1 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  text-align: center;
+  padding: 10px;
+}
+
+#container-home {
+  background: rgb(83, 105, 118) !important;
+  background: linear-gradient(
+    130deg,
+    rgba(83, 105, 118, 1) 0%,
+    rgba(41, 46, 73, 1) 46%
+  ) !important;
+}
+
+.button {
+  color: transparent;
+  border: white;
+}
